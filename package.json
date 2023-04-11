@@ -7,7 +7,7 @@
     "start": "webpack-dev-server --mode development",
     "build": "webpack --mode production",
     "lint": "eslint .",
-    "test": "jest",
+    "test": "jest --runInBand",
     "coverage": "jest --testPathPattern=./src/ --coverage",
     "e2e": "start-test 'yarn start' :9000 'yarn test'",
     "doc": "jsdoc -c jsdoc.conf.json",

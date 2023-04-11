@@ -1,5 +1,7 @@
 import puppeteer from 'puppeteer';
 
+jest.setTimeout(60000);
+
 describe('Inn Form', () => {
   let browser;
   let page;

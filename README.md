@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/ahmruuy7kd3rado1?svg=true)](https://ci.appveyor.com/project/volik97/ahj-forms)
